@@ -1,0 +1,44 @@
+.containerCustome {
+  padding: 0;
+}
+
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.title {
+  position: relative;
+  top: -100px;
+}
+
+.input {
+  position: relative;
+  top: -80px;
+}
+.imgCol {
+  padding: 0;
+}
+.img {
+  position: relative;
+  height: 100%;
+  margin-top: 33px;
+}
+
+.btnCustom {
+  color: #fff !important;
+  background-color: #924b54 !important;
+  width: 120px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  top: -30px;
+  transition: 0.3s;
+}
+
+.btnCustom:hover {
+  background-color: #793841 !important;
+}
